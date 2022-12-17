@@ -18,17 +18,18 @@ thumbnail: /assets/image-6.jpg
 
 <marquee>NAZA สล็อตออนไลน์ ศูนย์รวมเว็บพนันออนไลน์</marquee>
 
-# h1 Heading 8-)
- 
-## h2 Heading
+# รวมเว็บเครดิตฟรี พร้อมโค้ดลับ อัพเดตล่าสุด 
+--- 
+## [คลิ๊กAwaygeเครดิตฟรี50](https://awayge.com/register?token=fy6xu5BTKLOA1xtg)  
+- โค้ด U3WE-0UKM-QN7X
+---
+## [Panda555](https://www.panda555.bet/register?token=pqmzGGExfPxJSr5p) 
+- โค้ด ```645P-94G9-68K5```
 
-### h3 Heading
-
-#### h4 Heading
-
-##### h5 Heading
-
-###### h6 Heading
+---
+## [Heng888](https://www.hengheng888.com/register?token=WCdDSlpjhqjgX6UL)
+-  โค้ด NPDX-PRNC-DQTN. 
+---
 
 ## Horizontal Rules
 
