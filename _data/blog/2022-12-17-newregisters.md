@@ -10,4 +10,4 @@ metaDescription: df sdf df
 # รวมเว็บเครดิตฟรี สมาชิกใหม่รับฟรี 10 เครดิต  
 ktv1bet สมาชิกใหม่รับฟรี 10 เครดิต  
 [![logo](https://rocketwin-office-c1.imgix.net/KTVBET/LOGO_WEB_/KTVBET-LOGO31.png)](https://ktv1bet.com/register?token=lA4LpW9PP73yCJTG)
-
+![register](ttps://www.sccwiki.com/wp-content/uploads/2022/02/ปุ่มสมัครสมาชิก.png)
